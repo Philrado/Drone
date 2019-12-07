@@ -1,12 +1,8 @@
-# Collaboration:
-
-    A collaboration with M. Hadi Badawi, Syed Waqas Hamdani, Philip Radojcic (myself), Danilo Vladicic, Dat Huu Vo
-
 **Please find related documents in the documents/ folder.**
 
     - UML diagram can be found there as well
     - Found in the test_screenshots/ folder is proof of working utilities.
-  	- Additonally, source files for these tests can be found in the tests/ folder
+	- Additonally, source files for these tests can be found in the tests/ folder
 
 Checkout the [documentation!](https://danilovlad.github.io/Drone/) 
 
@@ -60,3 +56,4 @@ Testing Motors:
     ./bin/MotorTest
     or
     python3 tests/testMotor.py
+
